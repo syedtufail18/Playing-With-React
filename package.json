@@ -1,0 +1,28 @@
+{
+  "name": "playing-with-react",
+  "version": "1.0.0",
+  "description": "Learning react with namastey react.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedtufail18/Playing-With-React.git"
+  },
+  "author": "Syed Tufail Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedtufail18/Playing-With-React/issues"
+  },
+  "homepage": "https://github.com/syedtufail18/Playing-With-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 chrome versions"  
+  ]
+}
